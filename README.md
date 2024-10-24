@@ -1,0 +1,1 @@
+This is my first serious project, which was difficult for me. Pure html and css used. Suitable for beginners and more experienced developers. link to figma: https://www.figma.com/file/tjkkfkHDXlGscyVbS3emln/Lagoona?type=design&node-id=0-1&t=n0eKnC58dGgLm8fn-0
